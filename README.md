@@ -28,7 +28,7 @@ The initiative is designed to empower individuals in the market to take strategi
 
 ## Data info
 * Shanghai apartment rental information scraped from local estate agency [Lianjia (链家)](https://lianjia.com);
-* Shanghai metro data;
+* Shanghai metro data.
 
 
 ## Prerequisites
