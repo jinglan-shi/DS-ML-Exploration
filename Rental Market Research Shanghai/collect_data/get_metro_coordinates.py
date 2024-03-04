@@ -24,5 +24,5 @@ for line in data['l']:
 
 
 # Save data to a JSON file
-with open('sh_metro_stations.json', 'w') as json_file:
+with open('../sh_metro_stations.json', 'w') as json_file:
     json.dump(stations, json_file)
